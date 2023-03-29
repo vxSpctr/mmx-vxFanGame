@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7a7f1928ce50306d",
@@ -157,6 +157,8 @@
   },
   "active": "93eb1c9192e1a4bf",
   "lastOpenFiles": [
+    "Referencias Gameplay.canvas",
+    "Referencias Gameplay.md",
     "Dev doc.md",
     "Context"
   ]

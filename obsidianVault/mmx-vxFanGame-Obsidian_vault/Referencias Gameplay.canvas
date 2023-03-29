@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"96e003e68695123c","x":-340,"y":-300,"width":400,"height":400,"color":"5","type":"group","label":"Core Mechanics"},
+		{"id":"5bfc5c647e50433a","x":-320,"y":-280,"width":250,"height":60,"type":"text","text":"## Pavlova"}
+	],
+	"edges":[]
+}
